@@ -1,26 +1,18 @@
-- 👋 Hi, I’m @MuriloGm22
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning all concepts related to front and full stack development
-- 💞️ I’m looking to collaborate on all the repositories and/or projects that need an up in their development
-- 📫 How to reach me email sonygames10@hotmail.com
+</div> 
+<p align="center">- 👋 Hi, I’m @MuriloGm22</p>
+<p align="center">- 👀 I’m interested in full stack development</p>
+<p align="center">- 🌱 I’m currently learning all concepts related to front and full stack development</p>
+<p align="center">- 💞️ I’m looking to collaborate on all the repositories and/or projects that need an up in their development</p>
+<p align="center">- 📫 How to reach me email sonygames10@hotmail.com</p>
+</div> 
 
 </div> 
-<p align="center">Profile Under Construction</p>
+<p align="center">Profile Under Construction 🚧 </p>
 </div> 
 
 <!---
 I suggest inserting these modifications in HTML and CSS to improve the design of your profile remembering that it is necessary to change for your user
---->
 
-<!---
-<h1 style="text-align: center;" align="center">&nbsp; &nbsp; &nbsp; Ol&aacute;, Seja Bem-Vindo ☺️</h1>
-<p align="center">❤️ </p>
-<p align="center">🌳 &ccedil;&atilde;o</p>
-<p align="center">🌱 </p>
-<p align="center">⚡ &ecirc;&ccedil;&atilde;&ecirc;</p>
-<p align="center">😄 Pronuncia: Ele/Dele </p>
-<p align="center">Sua contribui&ccedil;&atilde;o ser&aacute; muito bem vinda, vlw mesmo! 😉️</p>
-</div> 
 
   <div align="center">
   <a href="https://github.com/Rodrigo-Henrique21">
