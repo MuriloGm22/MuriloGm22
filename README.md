@@ -25,8 +25,7 @@ I suggest inserting these modifications in HTML and CSS to improve the design of
 </div>
   
  <div align="center">
- # falid you first create action in portal git 
-![snake gif](https://github.com/Rodrigo-Henrique21/Rodrigo-Henrique21/blob/output/github-contribution-grid-snake.svg)
+<h1 style="text-align: center;" align="center">&nbsp; &nbsp; &nbsp; Ol&aacute;, under construction</h1>
  
 </div>
 
