@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on all the repositories and/or projects that need an up in their development
 - 📫 How to reach me email sonygames10@hotmail.com
 
+<p align="center">under construction </p>
+
 <!---
 I suggest inserting these modifications in HTML and CSS to improve the design of your profile remembering that it is necessary to change for your user
 --->
