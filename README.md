@@ -36,8 +36,4 @@ I suggest inserting these modifications in HTML and CSS to improve the design of
    <img align="center" alt="docker" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
    <img align="center" alt="mySQL" height="90" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-
-                 
-</div><br>
-<div align="center">
 --->
