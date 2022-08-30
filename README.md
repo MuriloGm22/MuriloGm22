@@ -5,7 +5,7 @@
 - 📫 How to reach me email sonygames10@hotmail.com
 
 </div> 
-<p align="center">under construction </p>
+<p align="center">Profile Under Construction</p>
 </div> 
 
 <!---
